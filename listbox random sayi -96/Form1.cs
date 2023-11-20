@@ -40,15 +40,14 @@ namespace listbox_random_sayi__96
                     bulundu = true;
                     break; //break komutu döngüden çıkarır.
                 }
-                if (bulundu)
-                {
-                    MessageBox.Show("Aranan sayı bulundu");
-                }
-                else
-                {
-                    MessageBox.Show("Aranan sayı bulunamadı");
-                }
-
+            }
+            if (bulundu)
+            {
+                MessageBox.Show("Aranan sayı bulundu");
+            }
+            else
+            {
+                MessageBox.Show("Aranan sayı bulunamadı");
             }
         }
     }
