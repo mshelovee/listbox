@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\bin\Debug\listbox random sayi -96.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\bin\Debug\listbox random sayi -96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\bin\Debug\listbox random sayi -96.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox random sayi -96.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox random sayi -96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox_random_sayi__96.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox_random_sayi__96.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox random sayi -96.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox random sayi -96.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox random sayi -96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\listbox random sayi -96\listbox random sayi -96\obj\Debug\listbox random sayi -96.pdb
